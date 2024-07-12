@@ -4,4 +4,6 @@ Electromagnetic Radiation detector, based on the [Elektrosluch 3 by LOM Audio](h
 
 Component values are non crucial.
 
+Assembly tutorial [here](https://youtu.be/3JtvDqBiOzs)
+
 First debuted at the TroubleMaker Shenzhen Reboot June 2024 Huaqiangbei.
