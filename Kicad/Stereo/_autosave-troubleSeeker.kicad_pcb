@@ -3060,7 +3060,7 @@
 		)
 		(fp_arc
 			(start 6.096479 -1.625751)
-			(mid 6.166349 -1.576375)
+			(mid 6.166348 -1.576374)
 			(end 6.234 -1.524)
 			(stroke
 				(width 0.12)
@@ -3093,7 +3093,7 @@
 		)
 		(fp_arc
 			(start 5.829295 1.77705)
-			(mid 5.735154 1.818015)
+			(mid 5.735155 1.818016)
 			(end 5.639 1.854)
 			(stroke
 				(width 0.12)
@@ -3104,7 +3104,7 @@
 		)
 		(fp_arc
 			(start 5.638712 -1.85392)
-			(mid 5.734863 -1.817952)
+			(mid 5.734863 -1.817951)
 			(end 5.829 -1.777)
 			(stroke
 				(width 0.12)
@@ -3137,7 +3137,7 @@
 		)
 		(fp_arc
 			(start 5.000479 1.960685)
-			(mid 4.744554 1.943974)
+			(mid 4.744554 1.943973)
 			(end 4.493 1.894)
 			(stroke
 				(width 0.12)
@@ -3181,7 +3181,7 @@
 		)
 		(fp_arc
 			(start 4.080344 1.730739)
-			(mid 4.005725 1.688978)
+			(mid 4.005726 1.688977)
 			(end 3.933 1.644001)
 			(stroke
 				(width 0.12)
@@ -3192,7 +3192,7 @@
 		)
 		(fp_arc
 			(start 3.93363 -1.644317)
-			(mid 4.00637 -1.689264)
+			(mid 4.006369 -1.689267)
 			(end 4.081 -1.731)
 			(stroke
 				(width 0.12)
@@ -3203,7 +3203,7 @@
 		)
 		(fp_arc
 			(start 3.904516 1.625664)
-			(mid 3.834647 1.576334)
+			(mid 3.834648 1.576333)
 			(end 3.767 1.524)
 			(stroke
 				(width 0.12)
@@ -3269,7 +3269,7 @@
 		)
 		(fp_arc
 			(start 3.521125 1.286294)
-			(mid 3.477135 1.233898)
+			(mid 3.477135 1.233899)
 			(end 3.435 1.18)
 			(stroke
 				(width 0.12)
@@ -11141,6 +11141,72 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.8")
+		(uuid "70e939e4-813c-43c2-af2a-4bd187204f53")
+		(pts
+			(xy 155.842751 38.392791) (xy 155.842751 181.092746)
+		)
+		(height -13.857249)
+		(gr_text "142.7000 mm"
+			(at 168.55 109.742769 90)
+			(layer "User.8")
+			(uuid "70e939e4-813c-43c2-af2a-4bd187204f53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.8")
+		(uuid "9ef52eae-29ce-4854-9bdc-7ba67b534d02")
+		(pts
+			(xy 125.283815 42.533727) (xy 160.912283 42.533727)
+		)
+		(height -12.633727)
+		(gr_text "35.6285 mm"
+			(at 143.098049 28.75 0)
+			(layer "User.8")
+			(uuid "9ef52eae-29ce-4854-9bdc-7ba67b534d02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 135.056207 104.556207)
